@@ -3,6 +3,10 @@
     grid-template-columns: repeat(3, 1fr);
     gap: 10px;
 }
+.visiteFlag-container img {
+    width: 100px;
+    margin-right: 5px;
+}
 /* responsive for mobile devices*/
 @media screen and (max-width: 647px) {
     .country-container{
