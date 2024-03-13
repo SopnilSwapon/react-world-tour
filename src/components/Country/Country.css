@@ -1,0 +1,9 @@
+.country{
+    border: 5px solid indigo;
+    padding: 15px;
+    margin: 14px;
+    border-radius: 15px;
+}
+p{
+    font-size: 18px;
+}
